@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2022-03-31T20:28:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/hello/</loc>
     <lastmod>2022-03-31T20:28:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,6 +30,13 @@
   </url>
   
   <url>
+    <loc>/categories/life/</loc>
+    <lastmod>2022-03-31T20:28:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2022-03-31T20:28:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -32,12 +46,6 @@
   <url>
     <loc>/tags/</loc>
     <lastmod>2022-03-31T20:28:20+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
