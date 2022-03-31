@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on JxLi0921&#39;s blog</title>
+    <link>JxLi0921.github.io/post/</link>
+    <description>Recent content in Posts on JxLi0921&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 31 Mar 2022 20:28:20 +0800</lastBuildDate><atom:link href="JxLi0921.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>JxLi0921.github.io/post/hello/</link>
+      <pubDate>Thu, 31 Mar 2022 20:28:20 +0800</pubDate>
+      
+      <guid>JxLi0921.github.io/post/hello/</guid>
+      <description>大概一两年前就想搭一个简单的博客了。一方面是为了 push 自己学点东西，另一方面也是想满足一下自己的表达欲。 正如上面提的那样，这个 blog 大概也就涵盖两种</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: JxLi0921.github.io/sitemap.xml
