@@ -6,7 +6,25 @@
     <description>Recent content in Posts on JxLi0921&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 31 Mar 2022 20:28:20 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2022 13:25:35 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intern</title>
+      <link>/post/intern/</link>
+      <pubDate>Tue, 19 Apr 2022 13:25:35 +0800</pubDate>
+      
+      <guid>/post/intern/</guid>
+      <description>我的实习记录 先放在这，以后慢慢更吧orz。 一句话短评：团队里面的人都很好很热心，但是我怎么干啥都踩坑，导致时时刻刻都有点怀疑人生的感觉“</description>
+    </item>
+    
+    <item>
+      <title>DDIA 阅读笔记</title>
+      <link>/post/ddia/</link>
+      <pubDate>Fri, 01 Apr 2022 11:17:37 +0800</pubDate>
+      
+      <guid>/post/ddia/</guid>
+      <description>第3章 数据存储与检索 Hash Index 这里以一个类似于Bitcask的架构来讲了一下哈希索引。 适合的场景：key可以fit in memory，对value有较</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>/post/hello/</link>

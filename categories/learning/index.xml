@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning on JxLi0921&#39;s blog</title>
+    <link>/categories/learning/</link>
+    <description>Recent content in learning on JxLi0921&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 01 Apr 2022 11:17:37 +0800</lastBuildDate><atom:link href="/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDIA 阅读笔记</title>
+      <link>/post/ddia/</link>
+      <pubDate>Fri, 01 Apr 2022 11:17:37 +0800</pubDate>
+      
+      <guid>/post/ddia/</guid>
+      <description>第3章 数据存储与检索 Hash Index 这里以一个类似于Bitcask的架构来讲了一下哈希索引。 适合的场景：key可以fit in memory，对value有较</description>
+    </item>
+    
+  </channel>
+</rss>

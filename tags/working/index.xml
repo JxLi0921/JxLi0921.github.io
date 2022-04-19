@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>working on JxLi0921&#39;s blog</title>
+    <link>/tags/working/</link>
+    <description>Recent content in working on JxLi0921&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 19 Apr 2022 13:25:35 +0800</lastBuildDate><atom:link href="/tags/working/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intern</title>
+      <link>/post/intern/</link>
+      <pubDate>Tue, 19 Apr 2022 13:25:35 +0800</pubDate>
+      
+      <guid>/post/intern/</guid>
+      <description>我的实习记录 先放在这，以后慢慢更吧orz。 一句话短评：团队里面的人都很好很热心，但是我怎么干啥都踩坑，导致时时刻刻都有点怀疑人生的感觉“</description>
+    </item>
+    
+  </channel>
+</rss>
